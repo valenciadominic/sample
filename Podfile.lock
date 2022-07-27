@@ -1,0 +1,28 @@
+PODS:
+  - HTagView (4.1)
+  - PullUpController (0.8.0)
+  - SnapKit (5.6.0)
+  - Swift_PageMenu (1.4.2)
+
+DEPENDENCIES:
+  - HTagView
+  - PullUpController
+  - SnapKit
+  - Swift_PageMenu
+
+SPEC REPOS:
+  trunk:
+    - HTagView
+    - PullUpController
+    - SnapKit
+    - Swift_PageMenu
+
+SPEC CHECKSUMS:
+  HTagView: c8f0f3ccd8cca98685c2937dbbc97976aa69a90f
+  PullUpController: 2f7ccaa0f35b31b47e3efbe1854c7f781552b3c7
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  Swift_PageMenu: 6cc3e92540729606bd66c9b35a0886ed6c8ed899
+
+PODFILE CHECKSUM: 88faf726396e4c05cd9d80c4f80da268d722eeb2
+
+COCOAPODS: 1.11.3

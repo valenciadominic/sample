@@ -1,0 +1,16 @@
+platform :ios, '13.0'
+use_frameworks!
+inhibit_all_warnings!
+
+target 'Sample' do
+  pod 'SnapKit'
+  pod 'HTagView'
+  pod 'Swift_PageMenu'
+  pod 'PullUpController'
+end
+
+post_install do |installer|
+  installer.pods_project.targets.each do |target|
+    puts target.name
+  end
+end
